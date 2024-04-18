@@ -1,0 +1,22 @@
+{
+  "dogs": {
+    "post":{
+      "id": "str",
+      "breed": "str",
+      "name": "str",
+      "age": "int"
+    },
+    "get_id":{
+      "id": "str",
+      "breed": "str",
+      "name": "str",
+      "age": "int"
+    },
+    "delete_id":{
+      "id": "str",
+      "breed": "str",
+      "name": "str",
+      "age": "int"
+    }
+  }
+}
